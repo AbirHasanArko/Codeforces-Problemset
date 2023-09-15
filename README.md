@@ -1,2 +1,2 @@
-# Codeforces-problemset
+# Codeforces-Problemset
 Solution to Problemsets in Codeforces
